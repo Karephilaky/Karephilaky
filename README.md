@@ -48,8 +48,11 @@ My work bridges **development, testing, and automation**, ensuring products are 
 ---
 
 ## 📊 GitHub Stats
-![Johannes's GitHub stats](https://github-readme-stats.vercel.app/api?username=johannescv&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=johannescv&layout=compact&theme=tokyonight)
+
+![Karephilaky's GitHub stats](https://github-readme-stats.vercel.app/api?username=Karephilaky&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Karephilaky&layout=compact&theme=tokyonight)
+
 
 ---
 
@@ -60,4 +63,5 @@ My work bridges **development, testing, and automation**, ensuring products are 
 ---
 
 > _“Good software is not just built — it is tested, questioned, and refined.”_
+
 > _“Si lo puedes pensar, lo puedes programar.”_
