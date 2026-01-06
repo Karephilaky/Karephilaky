@@ -48,10 +48,15 @@ My work bridges **development, testing, and automation**, ensuring products are 
 ---
 
 ## 📊 GitHub Stats
+<img 
+  src="https://github-readme-stats.vercel.app/api?username=Karephilaky&show_icons=true&theme=tokyonight&cache_seconds=1800"
+  alt="Karephilaky GitHub stats"
+/>
 
-![Karephilaky's GitHub stats](https://github-readme-stats.vercel.app/api?username=Karephilaky&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Karephilaky&layout=compact&theme=tokyonight)
+<img 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karephilaky&layout=compact&theme=tokyonight&cache_seconds=1800"
+  alt="Top Languages"
+/>
 
 
 ---
