@@ -152,7 +152,6 @@ Serving as an **International Campus Director Mentor** within the EF Hult Prize 
 - 🌐 **Portfolio:** https://www.johannescarofilis.com/
 - 💼 **LinkedIn:** https://www.linkedin.com/in/johannes-carofilis-a38b49288/
 - 🚀 **Community:** https://kriuu.com/
-- ✉️ **Email:** johannescv417@gmail.com
 
 ---
 
