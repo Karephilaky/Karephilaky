@@ -139,10 +139,6 @@ Serving as an **International Campus Director Mentor** within the EF Hult Prize 
 
 ## 📊 GitHub Stats
 
-<img 
-  src="https://github-readme-stats.vercel.app/api?username=Karephilaky&show_icons=true&theme=tokyonight&cache_seconds=1800"
-  alt="Karephilaky GitHub stats"
-/>
 
 <img 
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karephilaky&layout=compact&theme=tokyonight&cache_seconds=1800"
